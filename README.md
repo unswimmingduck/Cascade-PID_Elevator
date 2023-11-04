@@ -54,8 +54,8 @@
 &emsp;&emsp; ![image](https://github.com/unswimmingduck/Elevator/assets/111033998/63e8ccc0-2173-482b-9731-f108f2bf1ed3)  
 &emsp;&emsp; The following image shows the speed control curves displayed by scope in simulink.  
 &emsp;&emsp; ![image](https://github.com/unswimmingduck/Elevator/assets/111033998/fcd7d9e1-7a6d-4d3b-918c-42b6f39c8b3c)  
-&emsp;&emsp; To ensuring that this speed PID can perform well in Proteus, I also used python and matplotlib to write a function named [PID_test/V_Proc.py](https://github.com/unswimmingduck/Elevator/blob/main/PID_test/V_Proc.py) to test whether the speed PID works well. The speed of the motor in Proteus will be output through the Usart serial port and the speed curve in Proteus will be drawn through [PID_test/V_Proc.py](https://github.com/unswimmingduck/Elevator/blob/main/PID_test/V_Proc.py), which is more intuitive to observe whether the tuning curve is in line with our expectation. The following image shows that the speed PID works well in Proteus.
-![image](https://github.com/unswimmingduck/Elevator/assets/111033998/60a19a1b-1887-4579-aa7f-ddb3f382145b)
+&emsp;&emsp; To ensuring that this speed PID can perform well in Proteus, I also used python and matplotlib to write a function named [PID_test/V_Proc.py](https://github.com/unswimmingduck/Elevator/blob/main/PID_test/V_Proc.py) to test whether the speed PID works well. The speed of the motor in Proteus will be output through the Usart serial port and the speed curve in Proteus will be drawn through [PID_test/V_Proc.py](https://github.com/unswimmingduck/Elevator/blob/main/PID_test/V_Proc.py), which is more intuitive to observe whether the tuning curve is in line with our expectation. The following image shows that the speed PID works well in Proteus.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![image](https://github.com/unswimmingduck/Elevator/assets/111033998/60a19a1b-1887-4579-aa7f-ddb3f382145b)
 
 
 
