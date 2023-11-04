@@ -3,7 +3,7 @@
 &emsp;&emsp;  
 ![Static Badge](https://img.shields.io/badge/Keil5-make?style=for-the-badge&logo=STM32cubemx&logoColor=white&labelColor=blue&color=darkgreen)
 ![Static Badge](https://img.shields.io/badge/CubeMX-make?style=for-the-badge&logo=STMicroelectronics&labelColor=rgb(234%2C178%2C0)&color=blue)
-![Static Badge](https://img.shields.io/badge/STM32F103-make?style=for-the-badge&logo=STMicroelectronics&labelColor=rgb(234%2C178%2C0)&color=gray)
+![Static Badge](https://img.shields.io/badge/STM32F103R6-make?style=for-the-badge&logo=STMicroelectronics&labelColor=rgb(234%2C178%2C0)&color=gray)
 ![Static Badge](https://img.shields.io/badge/proteus-make?style=for-the-badge&logo=Proteus&logoColor=yellow&labelColor=yellow&color=yellow)
 ![Static Badge](https://img.shields.io/badge/matlab-make?style=for-the-badge&logo=matlab&logoColor=yellow&labelColor=yellow&color=orange)
 ![Static Badge](https://img.shields.io/badge/Python-make?style=for-the-badge&logo=python&labelColor=white&color=blue)
