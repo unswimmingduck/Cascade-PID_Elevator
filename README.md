@@ -1,5 +1,5 @@
-# Elevator based on tring-level PID algorithm
-&emsp;&emsp; In this project, I construct a simluation environment in Proteus to simluate the machanism of elevator. I use stm32 to controll the motor and apply  serial PID as control algorithm.  
+# Elevator based on Cascade-PID algorithm
+&emsp;&emsp; In this project, I construct a simluation environment in Proteus to simluate the machanism of elevator. I use stm32 to controll the motor and apply Cascade-PID as control algorithm.  
 &emsp;&emsp; In this project, we expect to practice the learned PID control algorithm, intuitively understand the application of PID algorithm in daily production from the way of accomplishing the actual goal, deeply understand the principle of PID through practice, and better master the method of debugging for PID.  
 &emsp;&emsp;  
 ![Static Badge](https://img.shields.io/badge/Keil5-make?style=for-the-badge&logo=STM32cubemx&logoColor=white&labelColor=blue&color=darkgreen)
